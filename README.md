@@ -1,6 +1,6 @@
-# demo1
+# Vue Calculator
 
-> A Vue.js project
+> A Vue 2 calculator project.
 
 ## Build Setup
 
